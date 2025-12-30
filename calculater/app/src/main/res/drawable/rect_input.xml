@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- رنگ پس‌زمینه (می‌تونی سفید یا شفاف بذاری) -->
+    <solid android:color="#FFFFFF"/>
+
+    <!-- حاشیه مشکی -->
+    <stroke
+        android:width="2dp"
+        android:color="#000000" />   <!-- رنگ مشکی -->
+
+    <!-- گوشه‌ها -->
+    <corners android:radius="90dp"/>
+
+</shape>
